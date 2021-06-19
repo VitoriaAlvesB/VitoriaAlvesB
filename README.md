@@ -1,12 +1,7 @@
 ### Hi there 👋
 
-## Menu
-- [Contato](#contato)
-- [Social](#social)
-- [Blog](#blog)
-- [Streaming](#streaming)
-- [Skills](#skills)
-- [Jogos](#jogos)
+💻
+🏡
 ----
 
 ![image](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
