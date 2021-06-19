@@ -1,5 +1,4 @@
 ## Hi there 👋
-----
 ## :woman:**Sobre mim:**
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
