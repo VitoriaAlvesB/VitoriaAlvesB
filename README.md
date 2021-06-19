@@ -1,6 +1,6 @@
 ### Hi there 👋
 ----
-:woman:**Sobre mim:**
+## :woman:**Sobre mim:**
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 &nbsp; Estudando **desenvolvimento front-end**.
@@ -16,7 +16,8 @@
  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
-  💌 ## **contato**:
+
+## **contato**: 
 
 <p align="left">
   <a href="#" alt="Gmail">
