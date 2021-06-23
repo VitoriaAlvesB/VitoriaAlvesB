@@ -1,7 +1,7 @@
 ## Hi there 👋
 ## :woman:**Sobre mim:**
 
-- 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
+- 🤔 &nbsp; Explorando novas tecnologias 
 - 🎓 &nbsp; Estudando **desenvolvimento front-end**.
 - 🌱 &nbsp; Aprendendo mais sobre **frameworks front-end, javascript**.
 
