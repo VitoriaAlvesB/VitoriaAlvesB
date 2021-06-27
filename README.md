@@ -19,7 +19,7 @@
 ## **contato**: 
 
 <a href="https://www.linkedin.com/in/vitória-alves-barbosa" alt="Linkedin">
-<img src="https://img.shields.io/badge/-VitoriaAlves-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vitória-alves-barbosa
+<img src="https://img.shields.io/badge/-Vitoria Alves-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vitória-alves-barbosa
 "/>
 </a>
 
