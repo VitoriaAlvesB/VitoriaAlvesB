@@ -20,5 +20,6 @@
 
 <a href="https://www.linkedin.com/in/vitória-alves-barbosa" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vitória-alves-barbosa"/></a>
+  
 [![Gmail Badge](https://img.shields.io/badge/-alvesvitoriabarboza@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:alvesvitoriabarboza@gmail.com)](mailto:alvesvitoriabarboza@gmail.com)
 
