@@ -2,7 +2,8 @@
 
 Sou desenvolvedora back-end, estou cursando analise e desenvolvimento de sistemas.
 
-Tenho conhecimentos em Java 8, com Framework Spring Boot, Data Security, com banco de dados MySQL/SQL e construção de API Rest, também em Javascript ECS6 com programação assíncrona, além de conhecimentos no pré-processador CSS SASS de projetos pessoais e de conclusão de cursos que desenvolvi. Tenho interesse em escalabilidade de aplicações, infraestrutura, melhores práticas de desenvolvimento, TDD e BDD.
+Tenho conhecimentos em Java 8, com Framework Spring Boot, Data Security, com banco de dados MySQL/SQL e construção de API Rest, também em Javascript ECS6 com programação assíncrona, além de conhecimentos no pré-processador CSS SASS de projetos pessoais e de conclusão de cursos que desenvolvi. 
+Tenho interesse em escalabilidade de aplicações, infraestrutura, melhores práticas de desenvolvimento, TDD e BDD.
 
   ##
   
