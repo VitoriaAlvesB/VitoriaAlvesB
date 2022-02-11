@@ -9,19 +9,19 @@ Tenho conhecimentos em Java 8, com Framework Spring Boot, Data Security, com ban
   ## Linguagens e Ferramentas
   
 <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-CSS" height="30" width="40"  src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://img.icons8.com/color/48/000000/spring-logo.png"/>
-  <img align="center" alt="Rafa-CSS" height="30" width="40"  src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://img.icons8.com/color/48/000000/postgreesql.png"/>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://img.icons8.com/color/48/000000/angularjs.png"/>
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40"  src="https://img.icons8.com/color/48/000000/sass.png">
+  <img align="center" alt="Rafa-CSS" height="50" width="50"  src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png">
+  <img align="center" alt="Rafa-CSS" height="50" width="50" src="https://img.icons8.com/color/48/000000/spring-logo.png"/>
+  <img align="center" alt="Rafa-CSS" height="50" width="50"  src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
+  <img align="center" alt="Rafa-CSS" height="50" width="50" src="https://img.icons8.com/color/48/000000/postgreesql.png"/>
+  <img align="center" alt="Rafa-Js" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Rafa-CSS" height="50" width="50" src="https://img.icons8.com/color/48/000000/angularjs.png"/>
+  <img align="center" alt="Rafa-HTML" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Rafa-CSS" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Rafa-CSS" height="50" width="50"  src="https://img.icons8.com/color/48/000000/sass.png">
   
-  <img  align="center" alt="Rafa-CSS" height="30" width="40" src="https://img.icons8.com/color/48/000000/heroku.png"/>
-  <img  align="center" alt="Rafa-CSS" height="30" width="40" src="https://img.icons8.com/officel/16/000000/java-eclipse.png"/>
-  <img  align="center" alt="Rafa-CSS" height="30" width="40" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/000000/external-postman-is-the-only-complete-api-development-environment-logo-shadow-tal-revivo.png"/>
+  <img  align="center" alt="Rafa-CSS" height="50" width="50" src="https://img.icons8.com/color/48/000000/heroku.png"/>
+  <img  align="center" alt="Rafa-CSS" height="50" width="50" src="https://img.icons8.com/officel/16/000000/java-eclipse.png"/>
+  <img  align="center" alt="Rafa-CSS" height="50" width="50" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/000000/external-postman-is-the-only-complete-api-development-environment-logo-shadow-tal-revivo.png"/>
  
  
 </div>
