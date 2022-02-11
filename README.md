@@ -23,7 +23,7 @@ Tenho interesse em escalabilidade de aplicações, infraestrutura, melhores prá
   
   <img  align="center" alt="Rafa-CSS" height="50" width="50" src="https://img.icons8.com/color/48/000000/heroku.png"/>
   <img  align="center" alt="Rafa-CSS" height="50" width="50" src="https://img.icons8.com/officel/16/000000/java-eclipse.png"/>
-  <img  align="center" alt="Rafa-CSS" height="50" width="50" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/000000/external-postman-is-the-only-complete-api-development-environment-logo-shadow-tal-revivo.png"/>
+  /*<img  align="center" alt="Rafa-CSS" height="50" width="50" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/000000/external-postman-is-the-only-complete-api-development-environment-logo-shadow-tal-revivo.png"/>*/
  
  
 </div>
