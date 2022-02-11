@@ -4,6 +4,7 @@ Sou desenvolvedora back-end, estou cursando analise e desenvolvimento de sistema
 Tenho conhecimentos em Java 8, com Framework Spring Boot, Data Security, com banco de dados MySQL/SQL e construção de API Rest, também em Javascript ECS6 com programação assíncrona, além de conhecimentos no pré-processador CSS SASS de projetos pessoais e de conclusão de cursos que desenvolvi. Tenho interesse em escalabilidade de aplicações, infraestrutura, melhores práticas de desenvolvimento, TDD e BDD.
 
   ##
+  
 
   ## Linguagens e Ferramentas
   
@@ -27,7 +28,7 @@ Tenho conhecimentos em Java 8, com Framework Spring Boot, Data Security, com ban
 [![Gmail Badge](https://img.shields.io/badge/-alvesvitoriabarboza@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:alvesvitoriabarboza@gmail.com)](mailto:alvesvitoriabarboza@gmail.com)
 <a href="https://www.linkedin.com/in/vitória-alves-barbosa" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vitória-alves-barbosa"/></a>
-
+##
   
   <div align="center">
   <a href="https://github.com/rafaballerini">
